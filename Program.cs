@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MouseEx
+namespace WF_Events_MouseEx
 {
 	static class Program
 	{

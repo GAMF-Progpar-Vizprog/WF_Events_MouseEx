@@ -1,4 +1,4 @@
-﻿namespace MouseEx
+﻿namespace WF_Events_MouseEx
 {
   partial class frmMain
   {

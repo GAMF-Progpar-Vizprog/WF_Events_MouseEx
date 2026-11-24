@@ -1,7 +1,7 @@
 ﻿using System.Drawing;
 using System.Windows.Forms;
 
-namespace MouseEx
+namespace WF_Events_MouseEx
 {
 	public partial class frmMain : Form
   {
